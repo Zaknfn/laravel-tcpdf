@@ -10,12 +10,6 @@
       "email": "elibyy@gmail.com"
     }
   ],
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/riccardowebco/TCPDF.git"
-    }
-  ],
   "require": {
     "illuminate/support": "5.0.x",
     "riccardowebco/tcpdf": "dev-master"
