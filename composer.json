@@ -10,21 +10,15 @@
       "email": "elibyy@gmail.com"
     }
   ],
-  "repositories": [{
-    "type": "package",
-    "package": {
-        "version": "6.2.6",
-        "name": "riccardowebco/tcpdf",
-        "source": {
-          "url": "https://github.com/riccardowebco/TCPDF.git",
-          "type": "vcs",
-          "version": "6.2.6"
-        }
-      }
-    }],
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/riccardowebco/TCPDF.git"
+    }
+  ],
   "require": {
     "illuminate/support": "5.0.x",
-    "riccardowebco/tcpdf": "6.2.6"
+    "riccardowebco/tcpdf": "dev-master"
   },
   "autoload": {
     "psr-4": {
