@@ -13,18 +13,18 @@
   "repositories": [{
     "type": "package",
     "package": {
-        "version": "0.1.0",
+        "version": "6.2.6",
         "name": "riccardowebco/tcpdf",
         "source": {
           "url": "https://github.com/riccardowebco/TCPDF.git",
           "type": "vcs",
-          "version": "0.1.0"
+          "version": "6.2.6"
         }
       }
     }],
   "require": {
     "illuminate/support": "5.0.x",
-    "riccardowebco/tcpdf": "0.1.0"
+    "riccardowebco/tcpdf": "6.2.6"
   },
   "autoload": {
     "psr-4": {
