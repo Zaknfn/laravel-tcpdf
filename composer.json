@@ -1,7 +1,6 @@
 {
   "name": "riccardowebco/laravel-tcpdf",
   "description": "tcpdf support for laravel 5",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "keywords":["laravel","tcpdf","pdf"],
   "authors": [
@@ -11,7 +10,7 @@
     }
   ],
   "require": {
-    "illuminate/support": "5.0.x",
+    "illuminate/support": "5.3.x",
     "riccardowebco/tcpdf": "6.3.0"
   },
   "autoload": {
